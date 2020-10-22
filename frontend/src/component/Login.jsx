@@ -56,6 +56,7 @@ function Login({history,socket,...props}) {
                 <button type='submit' 
                 className='btn btn-sm mt-3 btn-secondary form-control'>Login</button>
             </form>
+            <h2 className='text-center'>PWA application</h2>
         </div>
     )
 }
