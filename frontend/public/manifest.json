@@ -1,6 +1,4 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,8 +16,12 @@
       "sizes": "512x512"
     }	    
   ],
-  "start_url": ".",
+  "name": "schedular",
+  "short_name": "schedular",
   "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
